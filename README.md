@@ -36,4 +36,4 @@
 </div>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emek-k&show_icons=true&locale=en&layout=compact" alt="emek-k" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emek-k&show_icons=true&locale=en&layout=compact" alt="emek-k" /></p>
