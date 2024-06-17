@@ -14,7 +14,7 @@
 <div>
   <table align="left">
     <tr>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/><p>Bootstrap</p></td>
+      <td><img src="https://cdn-icons-png.freepik.com/512/5968/5968667.png" alt="bootstrap" width="60" height="60"/><p>Bootstrap</p></td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/><p>C</p></td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/><p>C++</p></td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/><p>C#</p></td>
