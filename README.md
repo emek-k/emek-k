@@ -11,7 +11,7 @@
     <td colspan="3" align="left">
       <ul>
         <li>🌱 I’m currently learning <b>React</b></li>
-        <li>📫 How to reach me <b>emakorycki@gmail.com</b></li>
+        <li>📫 Reach me <b>emakorycki@gmail.com</b></li>
         <li>
           📌 Linkedin
           <a
