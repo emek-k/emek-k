@@ -1,18 +1,13 @@
 <h1 align="center">Hello 👋, I'm Emanuel</h1>
 <h3 align="center">I'm an aspiring programmer with a passion for combining technology and business. My goal is to create innovative solutions that drive success and efficiency. Explore my projects and feel free to connect—I'd love to collaborate and learn together!</h3>
 
-<table>
-  <tr>
-    <td>
-      - 🌱 I’m currently learning **React**
-      - 📫 How to reach me **emakorycki@gmail.com**
-      - 📌 Linkedin <a href="https://www.linkedin.com/in/emanuel-korycki-742321252/" target="blank">linkedin.com/emanuel-korycki</a>
-    </td>
-    <td>
-      <img src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" alt="web dev" width="60" height="60"/>
-    </td>
-  </tr>
-</table>
+- 🌱 I’m currently learning **React**
+- 📫 How to reach me **emakorycki@gmail.com**
+- 📌 Linkedin <a href="https://www.linkedin.com/in/emanuel-korycki-742321252/" target="blank">linkedin.com/emanuel-korycki</a>
+
+<img align="left" src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" alt="web dev" width="300" height="300"/>
+
+
 
 
 
