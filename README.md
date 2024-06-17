@@ -5,7 +5,7 @@
 - 📫 How to reach me **emakorycki@gmail.com**
 - 📌 Linkedin <a href="https://www.linkedin.com/in/emanuel-korycki-742321252/" target="blank">linkedin.com/emanuel-korycki</a>
 
-<img align="left" src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" alt="web dev" width="300" height="300"/>
+<img align="right" src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" alt="web dev" width="300" height="300"/>
 
 
 
