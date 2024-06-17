@@ -25,14 +25,14 @@
         <img
           src="https://github-readme-streak-stats.herokuapp.com/?user=emek-k&"
           alt="emek-k"
-          width="400"
+          width="350"
         />
       </p>
     </td>
     <td colspan="3" align="center">
       <img
         src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif"
-        width="400"
+        width="350"
       />
     </td>
   </tr>
@@ -40,14 +40,14 @@
     <td colspan="3" align="center">
       <img
         src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"
-        width="400"
+        width="350"
       />
     </td>
     <td colspan="3" align="center">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs?username=emek-k&show_icons=true&locale=en&layout=compact"
         alt="emek-k"
-        width="400"
+        width="350"
       />
     </td>
   </tr>
