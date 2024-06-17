@@ -3,13 +3,13 @@
 
 <table border="0" align="center">
   <tr>
-    <td colspan="3" align="center">
-      <ul align="left">
-        <li>🌱 I’m currently learning <b>React</b></li>
-        <li>📫 How to reach me <b>emakorycki@gmail.com</b></li>
-        <li>📌 Linkedin <a href="https://www.linkedin.com/in/emanuel-korycki-742321252/" target="_blank">linkedin.com/emanuel-korycki</a></li>
-      </ul>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=emek-k&" alt="emek-k" />
+    <td colspan="3" align="left">
+    <ul>
+      <li>🌱 I’m currently learning <b>React</b></li>
+      <li>📫 How to reach me <b>emakorycki@gmail.com</b></li>
+      <li>📌 Linkedin <a href="https://www.linkedin.com/in/emanuel-korycki-742321252/" target="_blank">linkedin.com/emanuel-korycki</a></li>
+    </ul>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emek-k&" alt="emek-k" />
     </td>
     <td colspan="3" align="center">
       <img src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" width="400">
