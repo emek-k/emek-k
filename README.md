@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋, I'm Emanuel</h1>
 <h3 align="center">I'm an aspiring programmer with a passion for combining technology and business. My goal is to create innovative solutions that drive success and efficiency. Explore my projects and feel free to connect—I'd love to collaborate and learn together!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emek-k" alt="emek-k" /></a> </p>
-
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **emakorycki@gmail.com**
