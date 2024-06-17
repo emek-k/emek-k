@@ -315,7 +315,6 @@
           src="https://github.com/emek-k/emek-k/assets/48961771/2fb23012-abfb-4af0-8113-b429638687d5"
           width="100"
         />
-        `Github portfolio`
       </a>
     </td>
   </tr>
@@ -332,7 +331,6 @@
           src="https://github.com/emek-k/emek-k/assets/48961771/5444b59d-ac21-4497-82d9-387e8d6a5862"
           width="100"
         />
-        `Linkedin profile`
       </a>
     </td>
   </tr>
