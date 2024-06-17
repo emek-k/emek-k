@@ -10,12 +10,12 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/emanuel-korycki-742321252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emanuel-korycki-742321252/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <div>
-  <table align="left">
+  <table align="center">
     <tr>
       <td><img src="https://cdn-icons-png.freepik.com/512/5968/5968667.png" alt="bootstrap" width="60" height="60"/><p align="center">Bootstrap</p></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/><p>C</p></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/><p align="center">C</p></td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/><p>C++</p></td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/><p>C#</p></td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/><p>CSS</p></td>
