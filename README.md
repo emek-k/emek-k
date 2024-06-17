@@ -1,22 +1,9 @@
 <h1 align="center">Hello 👋, I'm Emanuel</h1>
 <h3 align="center">I'm an aspiring programmer with a passion for combining technology and business. My goal is to create innovative solutions that drive success and efficiency. Explore my projects and feel free to connect—I'd love to collaborate and learn together!</h3>
 
-
-<div style="display: flex; align-items: center;">
-  <img src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" alt="Description of image" style="margin-right: 10px;">
-  <p>Your text goes here. This text will be placed next to the image.</p>
-</div>
-
-
-<p align="left"> - 🌱 I’m currently learning <b>React</b> </p>
-<p align="left">- 📫 How to reach me <b>emakorycki@gmail.com</b></p>
-<p align="left">- 📌 Linkedin <a href="https://www.linkedin.com/in/emanuel-korycki-742321252/" target="blank">linkedin.com/emanuel-korycki</a></p>
-
-<img align="right" src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" alt="web dev" width="300" height="300"/>
-
-
-
-
+- 🌱 I’m currently learning <b>React</b> 
+- 📫 How to reach me <b>emakorycki@gmail.com</b>
+- 📌 Linkedin <a href="https://www.linkedin.com/in/emanuel-korycki-742321252/" target="blank">linkedin.com/emanuel-korycki</a>
 
 <h3 align="center">Languages and Tools:</h3>
 <div>
