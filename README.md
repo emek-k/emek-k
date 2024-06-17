@@ -7,7 +7,7 @@
       <ul align="left">
         <li>🌱 I’m currently learning <b>React</b></li>
         <li>📫 How to reach me <b>emakorycki@gmail.com</b></li>
-        <li>📌 Linkedin <a href="https://www.linkedin.com/in/emanuel-korycki-742321252/" target="blank">linkedin.com/emanuel-korycki</a></li>
+        <li>📌 Linkedin <a href="https://www.linkedin.com/in/emanuel-korycki-742321252/" target="_blank">linkedin.com/emanuel-korycki</a></li>
       </ul>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=emek-k&" alt="emek-k" />
     </td>
@@ -21,6 +21,61 @@
     </td>
     <td colspan="3" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emek-k&show_icons=true&locale=en&layout=compact" alt="emek-k" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+    <strong>Project</strong>
+    </td>
+    <td colspan="2">
+    <strong>Repository</strong>
+    </td>
+    <td colspan="2">
+    <strong>Demo</strong>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p>Course House</p>
+    </td>
+    <td colspan="2">
+      <a href="https://github.com/emek-k/Course-House" target="_blank">Course House Repository</a>
+    </td>
+    <td colspan="2">
+      <a href="https://www.youtube.com/watch?v=HU5QzKLJ5LI" target="_blank">youtube.com/course-house-demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p>Filmhub</p>
+    </td>
+    <td colspan="2">
+      <a href="https://github.com/emek-k/Filmhub" target="_blank">Filmhub Repository</a>
+    </td>
+    <td colspan="2">
+      <a href="https://www.youtube.com/watch?v=8k5zfJVQMeg" target="_blank">youtube.com/filmhub-demo</a>
+    </td>
+  </tr>
+  <tr>
+     <td colspan="2">
+      <p>Expenses Tracer</p>
+    </td>
+    <td colspan="2">
+      <a href="https://github.com/emek-k/Expenses-tracer" target="_blank">Expenses Tracer Repository</a>
+    </td>
+    <td colspan="2">
+      <a href="https://www.youtube.com/watch?v=52VKj6gjY20" target="_blank">youtube.com/expenses-tracer-demo</a>
+    </td>
+  </tr>
+  <tr>
+     <td colspan="2">
+      <p>Custom AVL dictionary</p>
+    </td>
+    <td colspan="2">
+      <a href="AVL_DICTIONARY" target="_blank">AVL Dictionary Repository</a>
+    </td>
+    <td colspan="2">
+      ‎
     </td>
   </tr>
   <tr>
