@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&weight=900&size=64&duration=3500&pause=500&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1500&height=200&lines=You+just+found+my+Github+profile+%F0%9F%91%80;Check+out+my+projects+and+let's+collaborate!+%F0%9F%A4%9D)](https://git.io/typing-svg)
 <h3 align="center">
-  I'm an aspiring programmer with a passion for combining technology and
+  I'm Emanuel an aspiring programmer with a passion for combining technology and
   business. My goal is to create innovative solutions that drive success and
-  efficiency. Explore my projects and feel free to connect—I'd love to
-  collaborate and learn together!
+  efficiency. Explore my projects and feel free to connect — I'd love to
+  collaborate!
 </h3>
 
 <table border="0" align="center">
