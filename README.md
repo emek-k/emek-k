@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Emanuel</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&weight=900&size=64&duration=3500&pause=500&color=F7F7F7&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hello+%F0%9F%91%8B%2C+I'm+Emanuel;Welcome+to+my+github+profile+%F0%9F%91%80)](https://git.io/typing-svg)
 <h3 align="center">
   I'm an aspiring programmer with a passion for combining technology and
   business. My goal is to create innovative solutions that drive success and
