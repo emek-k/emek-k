@@ -11,7 +11,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p>
+<div>
   <table align="left">
     <tr>
       <td><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/></a></td>
@@ -40,7 +40,7 @@
       <td><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/></a></td>
     </tr>
   </table>
-</p>
+</div>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emek-k&show_icons=true&locale=en&layout=compact" alt="emek-k" /></p>
