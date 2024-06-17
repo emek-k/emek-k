@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 - 📫 How to reach me **emakorycki@gmail.com**
-- 📌 Linkedin https://www.linkedin.com/in/emanuel-korycki-742321252/
+- 📌 Linkedin <a href="https://www.linkedin.com/in/emanuel-korycki-742321252/" target="blank">linkedin.com/emanuel-korycki</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
